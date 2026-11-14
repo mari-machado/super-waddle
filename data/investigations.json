@@ -1,0 +1,109 @@
+{
+  "source": "NASA Physical Sciences Informatics",
+  "investigations": [
+    {
+      "id": "OASIS Loading Status",
+      "arquivo": "OASIS\\OASIS Loading Status.xlsx",
+      "fonte": "https://nasa-psi.s3.us-west-2.amazonaws.com/OASIS/OASIS%20Loading%20Status.xlsx",
+      "experimentos": {
+        "n_linhas": 14,
+        "variou": {
+          "% LOADED": {
+            "n_valores": 13,
+            "valores": [
+              0.5416666666666666,
+              0.9720921520884062,
+              1.0,
+              0.5886075949367089,
+              0.935251798561151,
+              0.0,
+              0.005514445963142763,
+              0.0424481737413623,
+              0.1055125390038137,
+              0.9722860205175318,
+              0.21464903357070192,
+              0.020351845463953088,
+              0.27740390410538307
+            ]
+          },
+          "FOLDER NAME": {
+            "n_valores": 14,
+            "valores": [
+              "HD01 - SN001 Jul 1 to Jul 6 2015 - initial load complete CBP",
+              "HD02 - SN001 Jul 7 to Jul 10 2015 - initial load complete CBP",
+              "HD03 - SN001 Jul 13 to Jul 17 2015",
+              "HD04 - SN003 Jul 31 to Aug 13 2015 - initial load complete CBP",
+              "HD05 - SN003 Aug 17 to Aug 27 2015 - initial load complete CBP",
+              "HD06 - SN002 Sept 2 to Sept 18 2015",
+              "HD07 - SN001 Oct 5 to Oct 16 2015",
+              "HD08 - SN003 Oct 20 to Oct 30 2015",
+              "HD09 - SN004 Nov 3 to Nov 20 2015",
+              "HD10 - SN001-SN003 Dec 15 to Dec 18 2015",
+              "HD11 - SN003 Dec 31 2015 to Jan 14 2016",
+              "HD12 - SN004 Jan 8 to Jan 14 2016",
+              "HD13 - SN003 Jan 15 to Jan 18 2016",
+              "TOTAL"
+            ]
+          },
+          "LOADED (GB)": {
+            "n_valores": 13,
+            "valores": [
+              208.0,
+              519.0,
+              109.0,
+              186.0,
+              520.0,
+              0.0,
+              2.34,
+              25.8,
+              91.3,
+              508.0,
+              211.0,
+              59.0,
+              2439.4399999999996
+            ]
+          },
+          "TO BE LOADED (GB)": {
+            "n_valores": 14,
+            "valores": [
+              176.0,
+              14.9,
+              0.0,
+              130.0,
+              36.0,
+              483.0,
+              422.0,
+              582.0,
+              774.0,
+              14.48,
+              772.0,
+              2840.0,
+              110.0,
+              6354.38
+            ]
+          },
+          "TOTAL (GB)": {
+            "n_valores": 14,
+            "valores": [
+              384.0,
+              533.9,
+              109.0,
+              316.0,
+              556.0,
+              483.0,
+              424.34,
+              607.8,
+              865.3,
+              522.48,
+              983.0,
+              2899.0,
+              110.0,
+              8793.82
+            ]
+          }
+        },
+        "constante": {}
+      }
+    }
+  ]
+}
